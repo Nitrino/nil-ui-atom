@@ -9,7 +9,7 @@
     "url": "https://github.com/Nitrino/nil-ui"
   },
   "engines": {
-    "atom": ">0.100.0"
+    "atom": ">1.0.0"
   },
   "readme": "",
   "readmeFilename": "README.md",

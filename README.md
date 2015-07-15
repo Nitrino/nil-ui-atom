@@ -8,6 +8,9 @@ A dark colored UI theme for Atom with custom file icons based on [Seti UI](https
 
 ## Changelog
 
+## 0.2.0
+- Update compatibility with Atom 1.0
+
 ## 0.1.0
 - Rewrite SETI UI styles
 - Add base [Nil Syntax styles](https://github.com/Nitrino/nil-syntax)
