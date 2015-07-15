@@ -1,7 +1,7 @@
 {
   "name": "nil-ui",
   "theme": "ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A flat dark colored UI theme based on Seti UI",
   "license": "MIT",
   "repository": {
@@ -9,7 +9,7 @@
     "url": "https://github.com/Nitrino/nil-ui"
   },
   "engines": {
-    "atom": ">0.100.0"
+    "atom": ">1.0.0"
   },
   "readme": "",
   "readmeFilename": "README.md",
